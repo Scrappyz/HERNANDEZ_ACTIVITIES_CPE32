@@ -1,0 +1,8 @@
+print("Hello, I'm Michael Angelo Hernandez! BSCS 3C")
+print("\nGroup 5:")
+print("Tolentino")
+print("Talaba")
+print("Garrate")
+print("Labitigan")
+print("Hernandez")
+print("Torres")
